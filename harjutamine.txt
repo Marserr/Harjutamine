@@ -1,2 +1,0 @@
-Github on programeerimise jagamis ja õpetamis platform kus on võimalik ise harjutada programeerimist.
-Githubi saab kasutada kas rakendusena või browseris.
